@@ -4,6 +4,6 @@ This file tracks all my readings by categories. My comment will be in <span styl
 ## Causal Inference
 |Document Name   	|Source   	|Reading Status   	|Category   	|Key Summary   	|Link to Detailed Summary    |
 |---	|---	|---	|---	|---	|---  |
-|Causal inference in statistics: An overview   	|doi:10.1214/09-SS057   	|ongoing to section 3.3   	|statistics, causal inference   	|high level causal inference introduction with SEM, d-separation, back door algorithm   	|     |
+|Causal inference in statistics: An overview   	|[link](doi:10.1214/09-SS057)   	|ongoing to section 3.3   	|statistics, causal inference   	|high level causal inference introduction with SEM, d-separation, back door algorithm   	|     |
 |   	|   	|   	|   	|   	|     |
 |   	|   	|   	|   	|   	|     |
