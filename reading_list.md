@@ -6,4 +6,5 @@ This file tracks all my readings by categories. My comment will be in <span styl
 |---	|---	|---	|---	|---	|---  |
 |Causal inference in statistics: An overview   	|[link](doi:10.1214/09-SS057)   	|ongoing to section 3.3   	|statistics, causal inference   	|high level causal inference introduction with SEM, d-separation, back door algorithm   	|     |
 |Lean Analytics   	|   	|ongoing to chapter 6   	|business analytics, startup   	|aquisition, activation, retention, revenue, referral model, one metric that matters   	|     |
+|Lean Analytics   	|ongoing to chapter 13   	|business analytics   	|discussed different models in media site, user-generated content site, two-sided company. Learned the conversion funnel, three types of revenues from ads(display, click, affiliate).   	|   	|     |
 |   	|   	|   	|   	|   	|     |
