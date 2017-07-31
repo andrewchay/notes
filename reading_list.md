@@ -8,3 +8,18 @@ This file tracks all my readings by categories. My comment will be in <span styl
 |Lean Analytics   	|   	|ongoing to chapter 6   	|business analytics, startup   	|aquisition, activation, retention, revenue, referral model, one metric that matters   	|     |
 |Lean Analytics   	|ongoing to chapter 13   	|business analytics   	|discussed different models in media site, user-generated content site, two-sided company. Learned the conversion funnel, three types of revenues from ads(display, click, affiliate).   	|   	|     |
 |   	|   	|   	|   	|   	|     |
+|   	|   	|   	|   	|   	|     |
+|   	|   	|   	|   	|   	|     |
+|   	|   	|   	|   	|   	|     |
+|   	|   	|   	|   	|   	|     |
+
+Some SQL Notes:
+
+INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name])
+VALUES (1, 'Kelly', 'Jill')
+
+UPDATE table name 
+SET field name = some value
+
+DELETE FROM tblInvoices
+WHERE InvoiceID = 3
