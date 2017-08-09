@@ -13,7 +13,7 @@ This file tracks all my readings by categories. My comment will be in <span styl
 |   	|   	|   	|   	|   	|     |
 |   	|   	|   	|   	|   	|     |
 
-Some SQL Notes:
+# Some SQL Notes:
 
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name])
 VALUES (1, 'Kelly', 'Jill')
@@ -23,3 +23,9 @@ SET field name = some value
 
 DELETE FROM tblInvoices
 WHERE InvoiceID = 3
+# Supervised Machine Learning
+## Naive Bayesian
+In Naive Bayesian method, the classification is achieved by choosing the class that has the largest posterior probability as $P()$.
+## SVM
+## Decision Tree
+## Random Forest
