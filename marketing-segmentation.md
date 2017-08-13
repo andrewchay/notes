@@ -40,3 +40,7 @@ Segmentation has to satisfy the following properties so that they are actionable
 |Behavioral   |Frequency, loyalty, urgency, volume   |
 |Firmographic   |Industry, product, global/local, ownership, size   |
 |Benefit Sought   |Value, price, safety, relationship, service   |
+
+
+## Targeting
+The goal for targeting is to find the profitability of the segment, the resource and competency that the organization can meet the need of this segment, and the current and future competitions from competitors.
