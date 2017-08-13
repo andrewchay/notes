@@ -26,17 +26,17 @@ Segmentation has to satisfy the following properties so that they are actionable
 ### Segmentation in consumer markets
 |Category   |Factors   |
 |---|---|
-|Geographic   |country, region, city, urban/rural   |
+|Geographic   |country, region, city, urban/rural, climate   |
 |Demographic   |age, gender, religion, ethnicity, race, marital status, income, family size, occupation, education   |
 |Behavioral   |spending power, frequency, price sensitivity, loyalty, product knowledge   |
-|Psychographic   |   |
-|Benefit Sought   |   |
+|Psychographic   |Personality, lifestyle, activities, interests, opinions   |
+|Benefit Sought   |Value, safety, convenience, status    |
 
 ### Segmentation in business markets
 |Category   |Factors   |
 |---|---|
 |Geographic   |country, region, city, urban/rural   |
-|Buying Approach   |   |
-|Behavioral   |   |
-|Firmographic   |   |
-|Benefit Sought   |   |
+|Buying Approach   |Centralized/Decentralized purchase, involvement of decision making, purchase policy   |
+|Behavioral   |Frequency, loyalty, urgency, volume   |
+|Firmographic   |Industry, product, global/local, ownership, size   |
+|Benefit Sought   |Value, price, safety, relationship, service   |
