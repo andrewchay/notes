@@ -24,6 +24,7 @@ Segmentation has to satisfy the following properties so that they are actionable
 
 ## How to segment customers?
 ### Segmentation in consumer markets
+|Category   |Factors   |
 |---|---|
 |Geographic   |country, region, city, urban/rural   |
 |Demographic   |   |
