@@ -44,3 +44,7 @@ Segmentation has to satisfy the following properties so that they are actionable
 
 ## Targeting
 The goal for targeting is to find the profitability of the segment, the resource and competency that the organization can meet the need of this segment, and the current and future competitions from competitors.
+
+## Webpage to analysis models
+There are a few models available for marketing analysis, including cluster analysis, propensity models and collaborative analysis. Here is a nice link to the article.
+[Link](https://fulcrumtech.net/resources/3-predictive-models-email-marketers-need-to-know-about/)
